@@ -13,6 +13,7 @@ const ROOT = join(__dirname, '..');
 const OUT = join(ROOT, 'vendors.json');
 const OVERLAY_PATH = join(ROOT, 'data', 'editorial-overlay.json');
 const LEVELS_PATH = join(ROOT, 'data', 'levels.json'); // GrowthZone membership level per member (from the report export)
+const LOGO_OVERRIDES_PATH = join(ROOT, 'data', 'logo-overrides.json'); // manual logo fixes (member name -> logo URL) for missing/wrong GZ logos
 
 // The directory's "All" button returns every web-visible member in one page,
 // regardless of category (so uncategorized members are included too). term=#! url-encoded.
@@ -122,11 +123,23 @@ function loadLevels() {
   return map;
 }
 
+// Manual logo overrides for members whose GZ logo is missing or is a photo/wrong image.
+// Maps company name -> logo URL; this WINS over the scraped GZ logo (and over Brandfetch on
+// the page). Remove an entry once the member uploads a proper logo to GrowthZone.
+function loadLogoOverrides() {
+  if (!existsSync(LOGO_OVERRIDES_PATH)) return {};
+  const raw = JSON.parse(readFileSync(LOGO_OVERRIDES_PATH, 'utf8'));
+  const map = {};
+  for (const [name, url] of Object.entries(raw)) map[keyOf(name)] = url;
+  return map;
+}
+
 async function main() {
   console.log('Scraping public GrowthZone partner directory…');
   const byKey = await scrapeAll();
   const overlay = loadOverlay();
   const levels = loadLevels();
+  const logoOverrides = loadLogoOverrides();
 
   const vendors = [...byKey.values()]
     .map((v) => {
@@ -139,7 +152,7 @@ async function main() {
         p: v.p,                       // GrowthZone
         website: v.website,           // GrowthZone
         contactUrl: v.contactUrl,     // GrowthZone protected contact form ("Send Email")
-        logoUrl: v.logoUrl,           // GrowthZone (real member logo)
+        logoUrl: logoOverrides[keyOf(v.n)] || v.logoUrl,  // GZ logo, or a manual override (data/logo-overrides.json)
         cats: [...v.cats].sort(),     // GrowthZone
         tier: levels[keyOf(v.n)] || 'basic',  // GrowthZone membership level (blank == basic)
         specialty: o.specialty || '', // editorial
