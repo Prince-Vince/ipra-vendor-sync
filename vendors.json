@@ -1,9 +1,9 @@
 {
   "source": "members.ilipra.org/ipra-partner-directory (Commercial Member Directory — Website)",
-  "generatedAt": "2026-06-17T18:37:19.201Z",
+  "generatedAt": "2026-06-17T18:46:49.835Z",
   "count": 98,
   "withLogos": 26,
-  "withWebsite": 59,
+  "withWebsite": 63,
   "withContactForm": 94,
   "withoutCategory": 0,
   "byTier": {
@@ -23,7 +23,8 @@
       ],
       "tier": "premium",
       "specialty": "Banking & Public Finance",
-      "desc": "Full-service banking institution providing public finance, treasury management, and specialized financial services for government agencies."
+      "desc": "Full-service banking institution providing public finance, treasury management, and specialized financial services for government agencies.",
+      "firstSeen": "2024-01-01"
     },
     {
       "n": "A5 Branding & Digital",
@@ -37,7 +38,8 @@
       ],
       "tier": "basic",
       "specialty": "Branding & Digital Marketing",
-      "desc": "Full-service branding, web design, and digital marketing agency helping park districts communicate their value and engage their communities."
+      "desc": "Full-service branding, web design, and digital marketing agency helping park districts communicate their value and engage their communities.",
+      "firstSeen": "2024-01-01"
     },
     {
       "n": "Access To Growth Learning Solutions",
@@ -50,7 +52,8 @@
       ],
       "tier": "basic",
       "specialty": "Professional Development & Training",
-      "desc": "Professional development and training programs designed to build leadership skills and organizational capacity for park and recreation professionals."
+      "desc": "Professional development and training programs designed to build leadership skills and organizational capacity for park and recreation professionals.",
+      "firstSeen": "2024-01-01"
     },
     {
       "n": "Accessa",
@@ -63,7 +66,8 @@
       ],
       "tier": "basic",
       "specialty": "",
-      "desc": ""
+      "desc": "",
+      "firstSeen": "2026-06-17"
     },
     {
       "n": "Alliance Disaster Kleenup",
@@ -76,7 +80,8 @@
       ],
       "tier": "basic",
       "specialty": "Disaster Restoration",
-      "desc": "Commercial restoration and disaster cleanup services for fire, water, and storm damage—helping park facilities recover quickly and safely."
+      "desc": "Commercial restoration and disaster cleanup services for fire, water, and storm damage—helping park facilities recover quickly and safely.",
+      "firstSeen": "2024-01-01"
     },
     {
       "n": "Amilia",
@@ -89,7 +94,8 @@
       ],
       "tier": "basic",
       "specialty": "Recreation Management Software",
-      "desc": "Cloud-based recreation management platform offering online registration, membership management, and point-of-sale for parks and recreation agencies."
+      "desc": "Cloud-based recreation management platform offering online registration, membership management, and point-of-sale for parks and recreation agencies.",
+      "firstSeen": "2024-01-01"
     },
     {
       "n": "Ancel Glink Diamond Bush DiCianni & Krafthefer P.C.",
@@ -102,7 +108,8 @@
       ],
       "tier": "basic",
       "specialty": "Municipal & Government Law",
-      "desc": "Illinois municipal law firm providing legal counsel on employment, real estate, governance, and litigation for park districts and government agencies."
+      "desc": "Illinois municipal law firm providing legal counsel on employment, real estate, governance, and litigation for park districts and government agencies.",
+      "firstSeen": "2024-01-01"
     },
     {
       "n": "Apple Canyon Lake Property Owners Association",
@@ -115,7 +122,8 @@
       ],
       "tier": "basic",
       "specialty": "Conference & Recreation Venue",
-      "desc": "Private recreation community offering conference facilities, lodging, and outdoor activities in northwest Illinois—ideal for retreats and team events."
+      "desc": "Private recreation community offering conference facilities, lodging, and outdoor activities in northwest Illinois—ideal for retreats and team events.",
+      "firstSeen": "2024-01-01"
     },
     {
       "n": "Aqua Pure Enterprises, Inc.",
@@ -128,7 +136,8 @@
       ],
       "tier": "basic",
       "specialty": "Aquatics & Pool Services",
-      "desc": "Commercial pool and aquatic facility maintenance, chemical supply, and water treatment services."
+      "desc": "Commercial pool and aquatic facility maintenance, chemical supply, and water treatment services.",
+      "firstSeen": "2024-01-01"
     },
     {
       "n": "BarkPass",
@@ -141,7 +150,8 @@
       ],
       "tier": "basic",
       "specialty": "Dog Park Management Software",
-      "desc": "Digital dog park management platform providing permit sales, access control, and waiver collection to streamline dog park operations."
+      "desc": "Digital dog park management platform providing permit sales, access control, and waiver collection to streamline dog park operations.",
+      "firstSeen": "2024-01-01"
     },
     {
       "n": "Bass/Schuler Entertainment",
@@ -154,7 +164,8 @@
       ],
       "tier": "basic",
       "specialty": "Entertainment & Event Services",
-      "desc": "Chicago-based entertainment booking and event services company providing performers, DJs, and special event programming for parks and recreation events."
+      "desc": "Chicago-based entertainment booking and event services company providing performers, DJs, and special event programming for parks and recreation events.",
+      "firstSeen": "2024-01-01"
     },
     {
       "n": "Benchmark Imaging & Display",
@@ -167,7 +178,8 @@
       ],
       "tier": "basic",
       "specialty": "",
-      "desc": ""
+      "desc": "",
+      "firstSeen": "2026-06-17"
     },
     {
       "n": "BerryDunn",
@@ -180,7 +192,8 @@
       ],
       "tier": "basic",
       "specialty": "Accounting & Advisory",
-      "desc": "CPA and management consulting firm providing audit, advisory, and technology consulting services to government agencies and park districts nationwide."
+      "desc": "CPA and management consulting firm providing audit, advisory, and technology consulting services to government agencies and park districts nationwide.",
+      "firstSeen": "2024-01-01"
     },
     {
       "n": "BID Evolution",
@@ -193,7 +206,8 @@
       ],
       "tier": "basic",
       "specialty": "Procurement Technology",
-      "desc": "Procurement and bidding software streamlining the RFP and vendor solicitation process for public agencies, helping park districts save time and ensure compliance."
+      "desc": "Procurement and bidding software streamlining the RFP and vendor solicitation process for public agencies, helping park districts save time and ensure compliance.",
+      "firstSeen": "2024-01-01"
     },
     {
       "n": "BlueSky Recreation Consulting, LLC",
@@ -206,7 +220,8 @@
       ],
       "tier": "basic",
       "specialty": "",
-      "desc": ""
+      "desc": "",
+      "firstSeen": "2026-06-17"
     },
     {
       "n": "BMO Harris Bank",
@@ -219,7 +234,8 @@
       ],
       "tier": "basic",
       "specialty": "Banking & Public Finance",
-      "desc": "Full-service commercial bank offering public finance, treasury management, and specialized banking solutions for Illinois park districts and government agencies."
+      "desc": "Full-service commercial bank offering public finance, treasury management, and specialized banking solutions for Illinois park districts and government agencies.",
+      "firstSeen": "2024-01-01"
     },
     {
       "n": "Chicagoland Pool Management",
@@ -232,7 +248,8 @@
       ],
       "tier": "basic",
       "specialty": "Pool Management",
-      "desc": "Professional pool management, lifeguard staffing, and aquatic facility operations for park districts throughout Chicagoland."
+      "desc": "Professional pool management, lifeguard staffing, and aquatic facility operations for park districts throughout Chicagoland.",
+      "firstSeen": "2024-01-01"
     },
     {
       "n": "Cintas",
@@ -245,7 +262,8 @@
       ],
       "tier": "premium",
       "specialty": "",
-      "desc": ""
+      "desc": "",
+      "firstSeen": "2026-06-17"
     },
     {
       "n": "CivicRec",
@@ -258,7 +276,8 @@
       ],
       "tier": "basic",
       "specialty": "Recreation Management Software",
-      "desc": "CivicPlus recreation management software providing online registration, facility scheduling, membership tracking, and league management for park agencies."
+      "desc": "CivicPlus recreation management software providing online registration, facility scheduling, membership tracking, and league management for park agencies.",
+      "firstSeen": "2024-01-01"
     },
     {
       "n": "ComEd",
@@ -271,7 +290,8 @@
       ],
       "tier": "elite",
       "specialty": "Energy & Utilities",
-      "desc": "Commonwealth Edison providing energy solutions, efficiency programs, and sustainable energy consulting for park and recreation facilities."
+      "desc": "Commonwealth Edison providing energy solutions, efficiency programs, and sustainable energy consulting for park and recreation facilities.",
+      "firstSeen": "2024-01-01"
     },
     {
       "n": "Concrete Polyfix",
@@ -284,7 +304,8 @@
       ],
       "tier": "basic",
       "specialty": "Concrete Repair & Leveling",
-      "desc": "Concrete leveling and repair specialist using polyurethane foam injection to lift and stabilize sunken slabs, sidewalks, and pathways in park facilities."
+      "desc": "Concrete leveling and repair specialist using polyurethane foam injection to lift and stabilize sunken slabs, sidewalks, and pathways in park facilities.",
+      "firstSeen": "2024-01-01"
     },
     {
       "n": "Confluence",
@@ -297,7 +318,8 @@
       ],
       "tier": "basic",
       "specialty": "Landscape Architecture & Planning",
-      "desc": "Landscape architecture and planning firm creating innovative parks, trails, and public spaces with expertise in community engagement and sustainable design."
+      "desc": "Landscape architecture and planning firm creating innovative parks, trails, and public spaces with expertise in community engagement and sustainable design.",
+      "firstSeen": "2024-01-01"
     },
     {
       "n": "Cunningham Recreation",
@@ -310,7 +332,8 @@
       ],
       "tier": "premium",
       "specialty": "Playground & Recreation Equipment",
-      "desc": "Full-service playground and recreation equipment supplier offering design, installation, and maintenance for park districts across the Midwest."
+      "desc": "Full-service playground and recreation equipment supplier offering design, installation, and maintenance for park districts across the Midwest.",
+      "firstSeen": "2024-01-01"
     },
     {
       "n": "Dewberry Architects Inc.",
@@ -323,7 +346,8 @@
       ],
       "tier": "basic",
       "specialty": "Architecture & Engineering",
-      "desc": "Architecture, engineering, and consulting firm providing comprehensive facility design and planning for recreation agencies."
+      "desc": "Architecture, engineering, and consulting firm providing comprehensive facility design and planning for recreation agencies.",
+      "firstSeen": "2024-01-01"
     },
     {
       "n": "DLA Architects, Ltd.",
@@ -336,7 +360,8 @@
       ],
       "tier": "basic",
       "specialty": "Architecture",
-      "desc": "Full-service architectural firm specializing in park district facilities, recreation centers, and community buildings."
+      "desc": "Full-service architectural firm specializing in park district facilities, recreation centers, and community buildings.",
+      "firstSeen": "2024-01-01"
     },
     {
       "n": "DoubleSpot",
@@ -349,7 +374,8 @@
       ],
       "tier": "basic",
       "specialty": "Event & Venue Management Software",
-      "desc": "Event and venue management software helping park districts manage bookings, registrations, and communications for facilities and special events."
+      "desc": "Event and venue management software helping park districts manage bookings, registrations, and communications for facilities and special events.",
+      "firstSeen": "2024-01-01"
     },
     {
       "n": "Engineering Resource Associates, Inc.",
@@ -362,7 +388,8 @@
       ],
       "tier": "basic",
       "specialty": "Civil & Environmental Engineering",
-      "desc": "Civil and environmental engineering firm providing site development, water resources, and infrastructure design for park districts throughout the Chicago region."
+      "desc": "Civil and environmental engineering firm providing site development, water resources, and infrastructure design for park districts throughout the Chicago region.",
+      "firstSeen": "2024-01-01"
     },
     {
       "n": "Epstein",
@@ -375,7 +402,8 @@
       ],
       "tier": "basic",
       "specialty": "Architecture & Engineering",
-      "desc": "Architecture and engineering firm with extensive experience designing recreation centers, aquatic facilities, and community buildings for park districts."
+      "desc": "Architecture and engineering firm with extensive experience designing recreation centers, aquatic facilities, and community buildings for park districts.",
+      "firstSeen": "2024-01-01"
     },
     {
       "n": "Fehr Graham",
@@ -388,7 +416,8 @@
       ],
       "tier": "basic",
       "specialty": "Engineering & Environmental Consulting",
-      "desc": "Engineering and environmental consulting firm delivering civil engineering, landscape architecture, and environmental services for parks and municipalities."
+      "desc": "Engineering and environmental consulting firm delivering civil engineering, landscape architecture, and environmental services for parks and municipalities.",
+      "firstSeen": "2024-01-01"
     },
     {
       "n": "FGM Architects",
@@ -401,7 +430,8 @@
       ],
       "tier": "basic",
       "specialty": "Architecture & Design",
-      "desc": "Architecture and engineering firm specializing in parks, recreation centers, aquatic facilities, and community buildings."
+      "desc": "Architecture and engineering firm specializing in parks, recreation centers, aquatic facilities, and community buildings.",
+      "firstSeen": "2024-01-01"
     },
     {
       "n": "FieldTurf USA Inc,",
@@ -414,7 +444,8 @@
       ],
       "tier": "basic",
       "specialty": "Synthetic Turf & Athletic Fields",
-      "desc": "World-leading synthetic turf manufacturer providing high-performance artificial grass for athletic fields, multi-purpose sports areas, and recreation facilities."
+      "desc": "World-leading synthetic turf manufacturer providing high-performance artificial grass for athletic fields, multi-purpose sports areas, and recreation facilities.",
+      "firstSeen": "2024-01-01"
     },
     {
       "n": "Geese Chasers Chicago",
@@ -427,7 +458,8 @@
       ],
       "tier": "basic",
       "specialty": "Wildlife Management",
-      "desc": "Humane Canada goose control services using trained dogs to manage geese populations at parks, golf courses, and recreation areas in the Chicago area."
+      "desc": "Humane Canada goose control services using trained dogs to manage geese populations at parks, golf courses, and recreation areas in the Chicago area.",
+      "firstSeen": "2024-01-01"
     },
     {
       "n": "GLI, Inc.",
@@ -440,7 +472,8 @@
       ],
       "tier": "basic",
       "specialty": "Landscaping & Grounds Maintenance",
-      "desc": "Commercial landscaping and grounds maintenance services providing turf care, seasonal planting, and landscape management for park districts."
+      "desc": "Commercial landscaping and grounds maintenance services providing turf care, seasonal planting, and landscape management for park districts.",
+      "firstSeen": "2024-01-01"
     },
     {
       "n": "GO Technology Group",
@@ -453,7 +486,8 @@
       ],
       "tier": "basic",
       "specialty": "Managed IT Services",
-      "desc": "Managed IT services and technology solutions provider supporting park districts with network infrastructure, cybersecurity, and help desk support."
+      "desc": "Managed IT services and technology solutions provider supporting park districts with network infrastructure, cybersecurity, and help desk support.",
+      "firstSeen": "2024-01-01"
     },
     {
       "n": "Goodmark Nurseries",
@@ -466,7 +500,8 @@
       ],
       "tier": "basic",
       "specialty": "Nursery & Landscape Supply",
-      "desc": "Wholesale nursery supplying trees, shrubs, and perennials to park districts and landscape contractors for park beautification and reforestation projects."
+      "desc": "Wholesale nursery supplying trees, shrubs, and perennials to park districts and landscape contractors for park beautification and reforestation projects.",
+      "firstSeen": "2024-01-01"
     },
     {
       "n": "Great Southern Recreation",
@@ -479,7 +514,8 @@
       ],
       "tier": "basic",
       "specialty": "Playground Equipment & Installation",
-      "desc": "Full-service playground equipment supplier and installer offering a wide range of play structures, site furnishings, and outdoor fitness equipment."
+      "desc": "Full-service playground equipment supplier and installer offering a wide range of play structures, site furnishings, and outdoor fitness equipment.",
+      "firstSeen": "2024-01-01"
     },
     {
       "n": "Green-Up",
@@ -492,7 +528,8 @@
       ],
       "tier": "basic",
       "specialty": "Commercial Landscaping",
-      "desc": "Commercial landscape maintenance company providing turf management, seasonal color, irrigation, and grounds care services for park facilities."
+      "desc": "Commercial landscape maintenance company providing turf management, seasonal color, irrigation, and grounds care services for park facilities.",
+      "firstSeen": "2024-01-01"
     },
     {
       "n": "Hard Rock Concrete Cutters Inc",
@@ -505,7 +542,8 @@
       ],
       "tier": "basic",
       "specialty": "Concrete Cutting & Demolition",
-      "desc": "Concrete cutting, coring, and demolition specialists providing precision concrete services for park district construction and renovation projects."
+      "desc": "Concrete cutting, coring, and demolition specialists providing precision concrete services for park district construction and renovation projects.",
+      "firstSeen": "2024-01-01"
     },
     {
       "n": "Holabird & Root LLC",
@@ -518,7 +556,8 @@
       ],
       "tier": "basic",
       "specialty": "",
-      "desc": ""
+      "desc": "",
+      "firstSeen": "2026-06-17"
     },
     {
       "n": "HR Source (formally Management Association)",
@@ -531,7 +570,8 @@
       ],
       "tier": "basic",
       "specialty": "",
-      "desc": ""
+      "desc": "",
+      "firstSeen": "2026-06-17"
     },
     {
       "n": "Hustler Turf Equipment INC",
@@ -544,7 +584,8 @@
       ],
       "tier": "basic",
       "specialty": "Commercial Turf Equipment",
-      "desc": "Commercial-grade zero-turn mowers and turf equipment designed for the demanding maintenance needs of parks, golf courses, and athletic fields."
+      "desc": "Commercial-grade zero-turn mowers and turf equipment designed for the demanding maintenance needs of parks, golf courses, and athletic fields.",
+      "firstSeen": "2024-01-01"
     },
     {
       "n": "Illinois Public Risk Fund",
@@ -557,7 +598,8 @@
       ],
       "tier": "elite",
       "specialty": "Insurance & Risk Management",
-      "desc": "Comprehensive risk management, insurance pooling, and safety training exclusively for Illinois park districts and recreation agencies."
+      "desc": "Comprehensive risk management, insurance pooling, and safety training exclusively for Illinois park districts and recreation agencies.",
+      "firstSeen": "2024-01-01"
     },
     {
       "n": "IZone Imaging",
@@ -570,7 +612,8 @@
       ],
       "tier": "basic",
       "specialty": "Printing & Signage",
-      "desc": "Commercial printing and signage company specializing in banners, vehicle wraps, event graphics, and branded materials for parks and recreation programs."
+      "desc": "Commercial printing and signage company specializing in banners, vehicle wraps, event graphics, and branded materials for parks and recreation programs.",
+      "firstSeen": "2024-01-01"
     },
     {
       "n": "JSD Professional Services, Inc.",
@@ -583,7 +626,8 @@
       ],
       "tier": "premium",
       "specialty": "Civil Engineering & Surveying",
-      "desc": "Civil engineering and surveying firm providing site development, stormwater management, and infrastructure design for park facilities."
+      "desc": "Civil engineering and surveying firm providing site development, stormwater management, and infrastructure design for park facilities.",
+      "firstSeen": "2024-01-01"
     },
     {
       "n": "Just In Time Pool & Spa",
@@ -596,7 +640,8 @@
       ],
       "tier": "basic",
       "specialty": "Pool Maintenance & Service",
-      "desc": "Full-service pool maintenance, repairs, and chemical supply for municipal and commercial aquatic facilities throughout the Chicago suburbs."
+      "desc": "Full-service pool maintenance, repairs, and chemical supply for municipal and commercial aquatic facilities throughout the Chicago suburbs.",
+      "firstSeen": "2024-01-01"
     },
     {
       "n": "Kaizen Labs",
@@ -609,7 +654,8 @@
       ],
       "tier": "basic",
       "specialty": "Civic Technology",
-      "desc": "Civic technology company building digital tools that help government agencies improve resident engagement, online services, and community communication."
+      "desc": "Civic technology company building digital tools that help government agencies improve resident engagement, online services, and community communication.",
+      "firstSeen": "2024-01-01"
     },
     {
       "n": "KD Landscape Inc.",
@@ -622,7 +668,8 @@
       ],
       "tier": "basic",
       "specialty": "Landscape Contracting",
-      "desc": "Professional landscape contracting company providing installation, seasonal maintenance, and site improvements for park districts in the Chicago region."
+      "desc": "Professional landscape contracting company providing installation, seasonal maintenance, and site improvements for park districts in the Chicago region.",
+      "firstSeen": "2024-01-01"
     },
     {
       "n": "Kimley-Horn & Associates",
@@ -635,7 +682,8 @@
       ],
       "tier": "basic",
       "specialty": "Engineering & Planning",
-      "desc": "Planning, engineering, and environmental consulting firm serving park districts with landscape architecture and site design."
+      "desc": "Planning, engineering, and environmental consulting firm serving park districts with landscape architecture and site design.",
+      "firstSeen": "2024-01-01"
     },
     {
       "n": "Kompan, Inc",
@@ -648,7 +696,8 @@
       ],
       "tier": "basic",
       "specialty": "Playground & Fitness Equipment",
-      "desc": "Global leader in playground and outdoor fitness equipment, offering age-appropriate play structures, inclusive play, and nature-inspired designs for all communities."
+      "desc": "Global leader in playground and outdoor fitness equipment, offering age-appropriate play structures, inclusive play, and nature-inspired designs for all communities.",
+      "firstSeen": "2024-01-01"
     },
     {
       "n": "Lake Geneva Cruise Line",
@@ -661,7 +710,8 @@
       ],
       "tier": "basic",
       "specialty": "Aquatic Recreation & Tours",
-      "desc": "Scenic boat tours and aquatic recreation experiences on Geneva Lake—offering group cruises and team-building events for park districts and recreation agencies."
+      "desc": "Scenic boat tours and aquatic recreation experiences on Geneva Lake—offering group cruises and team-building events for park districts and recreation agencies.",
+      "firstSeen": "2024-01-01"
     },
     {
       "n": "Lamp Incorporated",
@@ -674,7 +724,8 @@
       ],
       "tier": "basic",
       "specialty": "Construction",
-      "desc": "General contractor specializing in construction and renovation of park district facilities, recreation centers, and aquatic centers."
+      "desc": "General contractor specializing in construction and renovation of park district facilities, recreation centers, and aquatic centers.",
+      "firstSeen": "2024-01-01"
     },
     {
       "n": "Landmark Aquatic",
@@ -687,7 +738,8 @@
       ],
       "tier": "basic",
       "specialty": "Aquatic Facility Design & Renovation",
-      "desc": "Aquatic facility design, renovation, and waterpark consulting firm specializing in pool renovation, splash pads, and aquatic attractions for park districts."
+      "desc": "Aquatic facility design, renovation, and waterpark consulting firm specializing in pool renovation, splash pads, and aquatic attractions for park districts.",
+      "firstSeen": "2024-01-01"
     },
     {
       "n": "Lauterbach & Amen, LLP",
@@ -700,7 +752,8 @@
       ],
       "tier": "basic",
       "specialty": "Accounting & Auditing",
-      "desc": "Public sector accounting and auditing firm providing financial advisory, budgeting, and audit services to park districts."
+      "desc": "Public sector accounting and auditing firm providing financial advisory, budgeting, and audit services to park districts.",
+      "firstSeen": "2024-01-01"
     },
     {
       "n": "McConnell & Associates Corp.",
@@ -713,7 +766,8 @@
       ],
       "tier": "elite",
       "specialty": "Sports Construction & Paving",
-      "desc": "Sports construction and commercial paving contractor specializing in asphalt, concrete, running tracks, and athletic courts for parks and recreation agencies since 1965."
+      "desc": "Sports construction and commercial paving contractor specializing in asphalt, concrete, running tracks, and athletic courts for parks and recreation agencies since 1965.",
+      "firstSeen": "2024-01-01"
     },
     {
       "n": "MGT Impact Solutions LLC",
@@ -726,7 +780,8 @@
       ],
       "tier": "basic",
       "specialty": "Management Consulting",
-      "desc": "Management consulting and advisory services helping park and recreation agencies with strategic planning, operational improvements, and organizational assessments."
+      "desc": "Management consulting and advisory services helping park and recreation agencies with strategic planning, operational improvements, and organizational assessments.",
+      "firstSeen": "2024-01-01"
     },
     {
       "n": "Midwest Mechanical",
@@ -739,7 +794,8 @@
       ],
       "tier": "basic",
       "specialty": "HVAC & Mechanical Contracting",
-      "desc": "Commercial HVAC, plumbing, and mechanical contracting services for park district recreation centers, aquatic facilities, and community buildings."
+      "desc": "Commercial HVAC, plumbing, and mechanical contracting services for park district recreation centers, aquatic facilities, and community buildings.",
+      "firstSeen": "2024-01-01"
     },
     {
       "n": "MOO-V-Night Cinema Productions",
@@ -752,7 +808,8 @@
       ],
       "tier": "basic",
       "specialty": "",
-      "desc": ""
+      "desc": "",
+      "firstSeen": "2026-06-17"
     },
     {
       "n": "MTJ Sports",
@@ -766,7 +823,8 @@
       ],
       "tier": "basic",
       "specialty": "Sports Facility Equipment",
-      "desc": "Manufacturer and supplier of aluminum bleachers, grandstands, press boxes, and sports facility components for park districts and athletic venues."
+      "desc": "Manufacturer and supplier of aluminum bleachers, grandstands, press boxes, and sports facility components for park districts and athletic venues.",
+      "firstSeen": "2024-01-01"
     },
     {
       "n": "Musco Sports Lighting",
@@ -779,7 +837,8 @@
       ],
       "tier": "basic",
       "specialty": "Sports Lighting",
-      "desc": "Industry-leading sports lighting systems for outdoor athletic fields, providing energy-efficient LED solutions with guaranteed light levels."
+      "desc": "Industry-leading sports lighting systems for outdoor athletic fields, providing energy-efficient LED solutions with guaranteed light levels.",
+      "firstSeen": "2024-01-01"
     },
     {
       "n": "MyRec.com Recreation Software",
@@ -792,7 +851,8 @@
       ],
       "tier": "basic",
       "specialty": "Recreation Management Software",
-      "desc": "Web-based recreation management software for program registration, facility booking, membership management, and community recreation administration."
+      "desc": "Web-based recreation management software for program registration, facility booking, membership management, and community recreation administration.",
+      "firstSeen": "2024-01-01"
     },
     {
       "n": "National Fitness Campaign LP",
@@ -805,7 +865,8 @@
       ],
       "tier": "elite",
       "specialty": "",
-      "desc": ""
+      "desc": "",
+      "firstSeen": "2026-06-17"
     },
     {
       "n": "NuToys Leisure Products",
@@ -818,7 +879,8 @@
       ],
       "tier": "basic",
       "specialty": "Playground & Leisure Equipment",
-      "desc": "Playground equipment, site furnishings, and outdoor fitness products tailored for park districts throughout the Midwest—including installation and safety surfacing."
+      "desc": "Playground equipment, site furnishings, and outdoor fitness products tailored for park districts throughout the Midwest—including installation and safety surfacing.",
+      "firstSeen": "2024-01-01"
     },
     {
       "n": "Outdoorlink Inc.",
@@ -831,7 +893,8 @@
       ],
       "tier": "premium",
       "specialty": "Smart Lighting & Asset Management",
-      "desc": "Smart outdoor lighting controls and asset-management technology — remote monitoring, scheduling, and control of lighting and equipment for parks and public spaces."
+      "desc": "Smart outdoor lighting controls and asset-management technology — remote monitoring, scheduling, and control of lighting and equipment for parks and public spaces.",
+      "firstSeen": "2024-01-01"
     },
     {
       "n": "PCI",
@@ -844,7 +907,8 @@
       ],
       "tier": "basic",
       "specialty": "Public Relations & Communications",
-      "desc": "Public relations and communications agency helping park districts build community awareness, manage media relations, and promote programs and services."
+      "desc": "Public relations and communications agency helping park districts build community awareness, manage media relations, and promote programs and services.",
+      "firstSeen": "2024-01-01"
     },
     {
       "n": "PDRMA",
@@ -857,7 +921,8 @@
       ],
       "tier": "basic",
       "specialty": "Risk Management & Insurance",
-      "desc": "Park District Risk Management Agency providing risk management, insurance, loss control, and training services to member agencies."
+      "desc": "Park District Risk Management Agency providing risk management, insurance, loss control, and training services to member agencies.",
+      "firstSeen": "2024-01-01"
     },
     {
       "n": "Perez Planning + Design",
@@ -870,7 +935,8 @@
       ],
       "tier": "elite",
       "specialty": "",
-      "desc": ""
+      "desc": "",
+      "firstSeen": "2026-06-17"
     },
     {
       "n": "PFM Asset Management",
@@ -883,7 +949,8 @@
       ],
       "tier": "basic",
       "specialty": "Investment & Financial Advisory",
-      "desc": "Investment management and financial advisory services for public agencies, providing portfolio management, bond proceeds investing, and financial planning."
+      "desc": "Investment management and financial advisory services for public agencies, providing portfolio management, bond proceeds investing, and financial planning.",
+      "firstSeen": "2024-01-01"
     },
     {
       "n": "Planning Resources Inc.",
@@ -896,7 +963,8 @@
       ],
       "tier": "basic",
       "specialty": "Landscape Architecture & Planning",
-      "desc": "Landscape architecture and planning firm offering comprehensive park master plans, trail design, and open space planning for park districts throughout Illinois."
+      "desc": "Landscape architecture and planning firm offering comprehensive park master plans, trail design, and open space planning for park districts throughout Illinois.",
+      "firstSeen": "2024-01-01"
     },
     {
       "n": "Play & Park Structures",
@@ -909,7 +977,8 @@
       ],
       "tier": "basic",
       "specialty": "Playground Equipment & Site Amenities",
-      "desc": "Playground equipment and site amenity supplier offering commercial play structures, benches, tables, and safety surfacing for park districts and communities."
+      "desc": "Playground equipment and site amenity supplier offering commercial play structures, benches, tables, and safety surfacing for park districts and communities.",
+      "firstSeen": "2024-01-01"
     },
     {
       "n": "Play Design Scapes",
@@ -922,7 +991,8 @@
       ],
       "tier": "basic",
       "specialty": "Custom Playground Design",
-      "desc": "Playground design and installation company creating custom, imaginative play environments with natural and traditional elements for parks and schools."
+      "desc": "Playground design and installation company creating custom, imaginative play environments with natural and traditional elements for parks and schools.",
+      "firstSeen": "2024-01-01"
     },
     {
       "n": "Play Illinois",
@@ -935,7 +1005,8 @@
       ],
       "tier": "premium",
       "specialty": "Playground Equipment",
-      "desc": "Playground design and installation specialists providing innovative play solutions for communities across Illinois."
+      "desc": "Playground design and installation specialists providing innovative play solutions for communities across Illinois.",
+      "firstSeen": "2024-01-01"
     },
     {
       "n": "Productive Parks LLC",
@@ -948,7 +1019,8 @@
       ],
       "tier": "basic",
       "specialty": "Park Management Software",
-      "desc": "Mobile work order and asset management software built specifically for park districts to track maintenance tasks, manage assets, and boost crew productivity."
+      "desc": "Mobile work order and asset management software built specifically for park districts to track maintenance tasks, manage assets, and boost crew productivity.",
+      "firstSeen": "2024-01-01"
     },
     {
       "n": "Rec Technologies",
@@ -961,7 +1033,8 @@
       ],
       "tier": "basic",
       "specialty": "Recreation Management Software",
-      "desc": "Recreation management platform (Rec.us) providing online program registration, membership management, and facilities scheduling for parks and recreation agencies."
+      "desc": "Recreation management platform (Rec.us) providing online program registration, membership management, and facilities scheduling for parks and recreation agencies.",
+      "firstSeen": "2024-01-01"
     },
     {
       "n": "Rieke Interiors",
@@ -975,7 +1048,8 @@
       ],
       "tier": "basic",
       "specialty": "Commercial Interiors & Furnishings",
-      "desc": "Commercial interior design and furniture solutions for recreation centers, clubhouses, and park district facilities throughout the greater Chicago area."
+      "desc": "Commercial interior design and furniture solutions for recreation centers, clubhouses, and park district facilities throughout the greater Chicago area.",
+      "firstSeen": "2024-01-01"
     },
     {
       "n": "Rolling Green Country Club with Invited",
@@ -988,7 +1062,8 @@
       ],
       "tier": "basic",
       "specialty": "Event Venue & Hospitality",
-      "desc": "Premier private country club offering event venues, golf, and hospitality facilities available to park districts and recreation agencies for special events and outings."
+      "desc": "Premier private country club offering event venues, golf, and hospitality facilities available to park districts and recreation agencies for special events and outings.",
+      "firstSeen": "2024-01-01"
     },
     {
       "n": "Romtec, Inc.",
@@ -1001,7 +1076,8 @@
       ],
       "tier": "basic",
       "specialty": "Pre-Engineered Park Buildings",
-      "desc": "Pre-engineered restroom buildings, shelters, and concession structures designed and manufactured for parks, recreation areas, and public facilities."
+      "desc": "Pre-engineered restroom buildings, shelters, and concession structures designed and manufactured for parks, recreation areas, and public facilities.",
+      "firstSeen": "2024-01-01"
     },
     {
       "n": "Russo Power Equipment",
@@ -1014,7 +1090,8 @@
       ],
       "tier": "basic",
       "specialty": "Outdoor Power Equipment",
-      "desc": "Commercial outdoor power equipment dealer and service center supplying mowers, tractors, and grounds maintenance equipment to park districts and municipalities."
+      "desc": "Commercial outdoor power equipment dealer and service center supplying mowers, tractors, and grounds maintenance equipment to park districts and municipalities.",
+      "firstSeen": "2024-01-01"
     },
     {
       "n": "RVi Planning",
@@ -1027,7 +1104,8 @@
       ],
       "tier": "basic",
       "specialty": "",
-      "desc": ""
+      "desc": "",
+      "firstSeen": "2026-06-17"
     },
     {
       "n": "Rytech LLC",
@@ -1040,7 +1118,8 @@
       ],
       "tier": "basic",
       "specialty": "Technology & IT Services",
-      "desc": "Technology services and solutions provider offering IT support, infrastructure management, and digital transformation services for public agencies."
+      "desc": "Technology services and solutions provider offering IT support, infrastructure management, and digital transformation services for public agencies.",
+      "firstSeen": "2024-01-01"
     },
     {
       "n": "SealMaster Chicago",
@@ -1053,7 +1132,8 @@
       ],
       "tier": "basic",
       "specialty": "",
-      "desc": ""
+      "desc": "",
+      "firstSeen": "2026-06-17"
     },
     {
       "n": "Software Solutions, Inc.",
@@ -1066,7 +1146,8 @@
       ],
       "tier": "basic",
       "specialty": "Recreation Management Software",
-      "desc": "Recreation and parks management software providing registration, membership, facility scheduling, and reporting tools for agencies of all sizes."
+      "desc": "Recreation and parks management software providing registration, membership, facility scheduling, and reporting tools for agencies of all sizes.",
+      "firstSeen": "2024-01-01"
     },
     {
       "n": "Sourcewell",
@@ -1079,7 +1160,8 @@
       ],
       "tier": "basic",
       "specialty": "Cooperative Purchasing",
-      "desc": "Government purchasing cooperative offering competitively solicited contracts that help park districts save time and money on equipment, vehicles, and services."
+      "desc": "Government purchasing cooperative offering competitively solicited contracts that help park districts save time and money on equipment, vehicles, and services.",
+      "firstSeen": "2024-01-01"
     },
     {
       "n": "Speer Financial",
@@ -1092,7 +1174,8 @@
       ],
       "tier": "basic",
       "specialty": "Municipal Finance Advisory",
-      "desc": "Independent municipal financial advisor providing bond issuance, debt management, and financial planning services to park districts and local governments."
+      "desc": "Independent municipal financial advisor providing bond issuance, debt management, and financial planning services to park districts and local governments.",
+      "firstSeen": "2024-01-01"
     },
     {
       "n": "Stifel",
@@ -1105,7 +1188,8 @@
       ],
       "tier": "basic",
       "specialty": "Public Finance & Investment Banking",
-      "desc": "Investment banking and financial advisory firm providing bond underwriting, investment management, and public finance services to park districts and municipalities."
+      "desc": "Investment banking and financial advisory firm providing bond underwriting, investment management, and public finance services to park districts and municipalities.",
+      "firstSeen": "2024-01-01"
     },
     {
       "n": "Street Level Studio",
@@ -1118,7 +1202,8 @@
       ],
       "tier": "basic",
       "specialty": "Marketing & Branding",
-      "desc": "Full-service marketing and branding agency helping park districts and recreation agencies with campaigns, web design, and community engagement."
+      "desc": "Full-service marketing and branding agency helping park districts and recreation agencies with campaigns, web design, and community engagement.",
+      "firstSeen": "2024-01-01"
     },
     {
       "n": "Studio 222 Architects LLC",
@@ -1131,7 +1216,8 @@
       ],
       "tier": "basic",
       "specialty": "Recreation Facility Architecture",
-      "desc": "Full-service architectural firm with a strong portfolio of recreation centers, natatoriums, and park buildings—delivering thoughtful, community-focused design."
+      "desc": "Full-service architectural firm with a strong portfolio of recreation centers, natatoriums, and park buildings—delivering thoughtful, community-focused design.",
+      "firstSeen": "2024-01-01"
     },
     {
       "n": "SYSTEMS & CABLING SOLUTIONS, INC",
@@ -1144,7 +1230,8 @@
       ],
       "tier": "basic",
       "specialty": "Technology Infrastructure",
-      "desc": "Commercial low-voltage contractor providing network cabling, security systems, AV installations, and technology infrastructure for park district facilities."
+      "desc": "Commercial low-voltage contractor providing network cabling, security systems, AV installations, and technology infrastructure for park district facilities.",
+      "firstSeen": "2024-01-01"
     },
     {
       "n": "Team REIL, Inc.",
@@ -1157,7 +1244,8 @@
       ],
       "tier": "premium",
       "specialty": "Site Amenities & Equipment",
-      "desc": "Outdoor recreation equipment and site amenities including bleachers, benches, bike racks, and park furnishings."
+      "desc": "Outdoor recreation equipment and site amenities including bleachers, benches, bike racks, and park furnishings.",
+      "firstSeen": "2024-01-01"
     },
     {
       "n": "The Forge Adventure Parks",
@@ -1170,12 +1258,13 @@
       ],
       "tier": "basic",
       "specialty": "Adventure Park Equipment",
-      "desc": "Designer and builder of indoor ninja warrior and adventure park courses—bringing high-energy, youth-focused attractions to park district recreation centers."
+      "desc": "Designer and builder of indoor ninja warrior and adventure park courses—bringing high-energy, youth-focused attractions to park district recreation centers.",
+      "firstSeen": "2024-01-01"
     },
     {
       "n": "The Larson Equipment And Furniture Company",
       "p": "(847) 705-0460",
-      "website": "",
+      "website": "http://larsoncompany.com/",
       "contactUrl": "https://members.ilipra.org/ipra-partner-directory/Contact/rARay3Dp?listingTypeId=EPKWaQPw",
       "logoUrl": "",
       "cats": [
@@ -1183,12 +1272,13 @@
       ],
       "tier": "basic",
       "specialty": "Furniture & Site Amenities",
-      "desc": "Premium park and recreation furnishings including benches, tables, shelters, and site amenities for outdoor spaces."
+      "desc": "Premium park and recreation furnishings including benches, tables, shelters, and site amenities for outdoor spaces.",
+      "firstSeen": "2024-01-01"
     },
     {
       "n": "The Mulch Center",
       "p": "(847) 459-7200",
-      "website": "",
+      "website": "http://mulchcenter.com/",
       "contactUrl": "https://members.ilipra.org/ipra-partner-directory/Contact/LEXV8xqP?listingTypeId=EPKWaQPw",
       "logoUrl": "",
       "cats": [
@@ -1196,7 +1286,8 @@
       ],
       "tier": "basic",
       "specialty": "Mulch & Landscape Materials",
-      "desc": "Premium mulch, wood chips, and landscape materials supplier delivering bulk and bagged products for park playgrounds, gardens, and landscaping projects."
+      "desc": "Premium mulch, wood chips, and landscape materials supplier delivering bulk and bagged products for park playgrounds, gardens, and landscaping projects.",
+      "firstSeen": "2024-01-01"
     },
     {
       "n": "The Sign Stop, Inc.",
@@ -1209,12 +1300,13 @@
       ],
       "tier": "basic",
       "specialty": "Custom Signage & Wayfinding",
-      "desc": "Custom sign fabrication company producing park entry signs, wayfinding systems, facility identification, and branded graphics for park districts."
+      "desc": "Custom sign fabrication company producing park entry signs, wayfinding systems, facility identification, and branded graphics for park districts.",
+      "firstSeen": "2024-01-01"
     },
     {
       "n": "Tyler Technologies, Inc.",
       "p": "(207) 518-4745",
-      "website": "",
+      "website": "http://tylertech.com/",
       "contactUrl": "",
       "logoUrl": "",
       "cats": [
@@ -1222,7 +1314,8 @@
       ],
       "tier": "basic",
       "specialty": "Technology & Software",
-      "desc": "Enterprise software solutions for government agencies including recreation management, permitting, and citizen engagement platforms."
+      "desc": "Enterprise software solutions for government agencies including recreation management, permitting, and citizen engagement platforms.",
+      "firstSeen": "2024-01-01"
     },
     {
       "n": "Upland Design Ltd",
@@ -1235,12 +1328,13 @@
       ],
       "tier": "elite",
       "specialty": "Landscape Architecture & Planning",
-      "desc": "Landscape architecture and planning firm creating innovative park designs, master plans, and recreational spaces throughout Illinois."
+      "desc": "Landscape architecture and planning firm creating innovative park designs, master plans, and recreational spaces throughout Illinois.",
+      "firstSeen": "2024-01-01"
     },
     {
       "n": "Vermont Systems",
       "p": "(802) 276-5598",
-      "website": "",
+      "website": "http://vermontsystems.com/",
       "contactUrl": "https://members.ilipra.org/ipra-partner-directory/Contact/rk50vYeP?listingTypeId=EPKWaQPw",
       "logoUrl": "",
       "cats": [
@@ -1248,7 +1342,8 @@
       ],
       "tier": "basic",
       "specialty": "Recreation Management Software",
-      "desc": "Enterprise recreation management software (RecTrac) providing comprehensive registration, point-of-sale, membership, and facility management for park agencies."
+      "desc": "Enterprise recreation management software (RecTrac) providing comprehensive registration, point-of-sale, membership, and facility management for park agencies.",
+      "firstSeen": "2024-01-01"
     },
     {
       "n": "Vortex Aquatic Structures International",
@@ -1261,7 +1356,8 @@
       ],
       "tier": "basic",
       "specialty": "Aquatic Play Structures",
-      "desc": "Global manufacturer of innovative spray pads, water playgrounds, and aquatic play structures that transform parks into destination community water experiences."
+      "desc": "Global manufacturer of innovative spray pads, water playgrounds, and aquatic play structures that transform parks into destination community water experiences.",
+      "firstSeen": "2024-01-01"
     },
     {
       "n": "Wight & Company",
@@ -1274,7 +1370,8 @@
       ],
       "tier": "basic",
       "specialty": "Architecture & Construction Management",
-      "desc": "Architecture, construction management, and interior design firm providing comprehensive building services for park district recreation centers and facilities."
+      "desc": "Architecture, construction management, and interior design firm providing comprehensive building services for park district recreation centers and facilities.",
+      "firstSeen": "2024-01-01"
     },
     {
       "n": "Wintrust Financial Corporation",
@@ -1287,7 +1384,8 @@
       ],
       "tier": "premium",
       "specialty": "Financial Services",
-      "desc": "Community banking and financial services providing specialized banking solutions for park districts and municipal agencies."
+      "desc": "Community banking and financial services providing specialized banking solutions for park districts and municipal agencies.",
+      "firstSeen": "2024-01-01"
     }
   ]
 }

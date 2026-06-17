@@ -14,6 +14,7 @@ const OUT = join(ROOT, 'vendors.json');
 const OVERLAY_PATH = join(ROOT, 'data', 'editorial-overlay.json');
 const LEVELS_PATH = join(ROOT, 'data', 'levels.json'); // GrowthZone membership level per member (from the report export)
 const LOGO_OVERRIDES_PATH = join(ROOT, 'data', 'logo-overrides.json'); // manual logo fixes (member name -> logo URL) for missing/wrong GZ logos
+const FIRST_SEEN_PATH = join(ROOT, 'data', 'first-seen.json'); // date each member was first observed in the directory — powers "New to the Directory"
 
 // The directory's "All" button returns every web-visible member in one page,
 // regardless of category (so uncategorized members are included too). term=#! url-encoded.
@@ -134,6 +135,13 @@ function loadLogoOverrides() {
   return map;
 }
 
+// first-seen.json: keyOf(name) -> YYYY-MM-DD when we first observed the member. Persisted
+// across runs so "New to the Directory" ages correctly. (Bootstrapped in main().)
+function loadFirstSeen() {
+  if (!existsSync(FIRST_SEEN_PATH)) return {};
+  return JSON.parse(readFileSync(FIRST_SEEN_PATH, 'utf8'));
+}
+
 async function main() {
   console.log('Scraping public GrowthZone partner directory…');
   const byKey = await scrapeAll();
@@ -160,6 +168,18 @@ async function main() {
       };
     })
     .sort((a, b) => a.n.toLowerCase().replace(/^[^a-z0-9]+/i, '').localeCompare(b.n.toLowerCase().replace(/^[^a-z0-9]+/i, '')));
+
+  // First-seen tracking → drives "New to the Directory". Bootstrap: members already in the
+  // editorial overlay are treated as established (older date); anyone new is dated to first sight.
+  const RUN_DATE = new Date().toISOString().slice(0, 10);
+  const firstSeen = loadFirstSeen();
+  let fsChanged = false;
+  for (const v of vendors) {
+    const k = keyOf(v.n);
+    if (!firstSeen[k]) { firstSeen[k] = overlay[k] ? '2024-01-01' : RUN_DATE; fsChanged = true; }
+    v.firstSeen = firstSeen[k];
+  }
+  if (fsChanged) writeFileSync(FIRST_SEEN_PATH, JSON.stringify(firstSeen, null, 2) + '\n');
 
   if (vendors.length < MIN_EXPECTED) {
     throw new Error(`Only ${vendors.length} vendors parsed (expected >= ${MIN_EXPECTED}). Aborting so we don't publish a broken file.`);
