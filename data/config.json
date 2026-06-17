@@ -1,0 +1,4 @@
+{
+  "_comment": "Published page config, baked into vendors.json so the page reads it from data instead of a constant that gets wiped on every Beaver Builder re-paste. brandfetchClientId is a Brandfetch client id (publishable — it appears in image URLs, safe to commit). Paste yours below.",
+  "brandfetchClientId": ""
+}

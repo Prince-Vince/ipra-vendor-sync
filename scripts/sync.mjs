@@ -15,6 +15,7 @@ const OVERLAY_PATH = join(ROOT, 'data', 'editorial-overlay.json');
 const LEVELS_PATH = join(ROOT, 'data', 'levels.json'); // GrowthZone membership level per member (from the report export)
 const LOGO_OVERRIDES_PATH = join(ROOT, 'data', 'logo-overrides.json'); // manual logo fixes (member name -> logo URL) for missing/wrong GZ logos
 const FIRST_SEEN_PATH = join(ROOT, 'data', 'first-seen.json'); // date each member was first observed in the directory — powers "New to the Directory"
+const CONFIG_PATH = join(ROOT, 'data', 'config.json'); // small published config (e.g. Brandfetch client id) baked into vendors.json so the page survives re-pastes
 
 // The directory's "All" button returns every web-visible member in one page,
 // regardless of category (so uncategorized members are included too). term=#! url-encoded.
@@ -142,12 +143,20 @@ function loadFirstSeen() {
   return JSON.parse(readFileSync(FIRST_SEEN_PATH, 'utf8'));
 }
 
+// Published page config (Brandfetch client id, etc.) — written into vendors.json so the page
+// reads it from the data instead of a constant that gets wiped on every Beaver Builder re-paste.
+function loadConfig() {
+  if (!existsSync(CONFIG_PATH)) return {};
+  return JSON.parse(readFileSync(CONFIG_PATH, 'utf8'));
+}
+
 async function main() {
   console.log('Scraping public GrowthZone partner directory…');
   const byKey = await scrapeAll();
   const overlay = loadOverlay();
   const levels = loadLevels();
   const logoOverrides = loadLogoOverrides();
+  const config = loadConfig();
 
   const vendors = [...byKey.values()]
     .map((v) => {
@@ -190,6 +199,7 @@ async function main() {
   const payload = {
     source: 'members.ilipra.org/ipra-partner-directory (Commercial Member Directory — Website)',
     generatedAt: new Date().toISOString(),
+    brandfetchClientId: config.brandfetchClientId || '',
     count: vendors.length,
     withLogos: vendors.filter((v) => v.logoUrl).length,
     withWebsite: vendors.filter((v) => v.website).length,
