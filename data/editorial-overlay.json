@@ -1,0 +1,362 @@
+{
+  "5/3 Fifth Third Bank": {
+    "specialty": "Banking & Public Finance",
+    "desc": "Full-service banking institution providing public finance, treasury management, and specialized financial services for government agencies."
+  },
+  "A5 Branding & Digital": {
+    "specialty": "Branding & Digital Marketing",
+    "desc": "Full-service branding, web design, and digital marketing agency helping park districts communicate their value and engage their communities."
+  },
+  "Access To Growth Learning Solutions": {
+    "specialty": "Professional Development & Training",
+    "desc": "Professional development and training programs designed to build leadership skills and organizational capacity for park and recreation professionals."
+  },
+  "Alliance Disaster Kleenup": {
+    "specialty": "Disaster Restoration",
+    "desc": "Commercial restoration and disaster cleanup services for fire, water, and storm damage—helping park facilities recover quickly and safely."
+  },
+  "Amilia": {
+    "specialty": "Recreation Management Software",
+    "desc": "Cloud-based recreation management platform offering online registration, membership management, and point-of-sale for parks and recreation agencies."
+  },
+  "Ancel Glink Diamond Bush DiCianni & Krafthefer P.C.": {
+    "specialty": "Municipal & Government Law",
+    "desc": "Illinois municipal law firm providing legal counsel on employment, real estate, governance, and litigation for park districts and government agencies."
+  },
+  "Apple Canyon Lake Property Owners Association": {
+    "specialty": "Conference & Recreation Venue",
+    "desc": "Private recreation community offering conference facilities, lodging, and outdoor activities in northwest Illinois—ideal for retreats and team events."
+  },
+  "Aqua Pure Enterprises, Inc.": {
+    "specialty": "Aquatics & Pool Services",
+    "desc": "Commercial pool and aquatic facility maintenance, chemical supply, and water treatment services."
+  },
+  "BarkPass": {
+    "specialty": "Dog Park Management Software",
+    "desc": "Digital dog park management platform providing permit sales, access control, and waiver collection to streamline dog park operations."
+  },
+  "Bass/Schuler Entertainment": {
+    "specialty": "Entertainment & Event Services",
+    "desc": "Chicago-based entertainment booking and event services company providing performers, DJs, and special event programming for parks and recreation events."
+  },
+  "BerryDunn": {
+    "specialty": "Accounting & Advisory",
+    "desc": "CPA and management consulting firm providing audit, advisory, and technology consulting services to government agencies and park districts nationwide."
+  },
+  "BID Evolution": {
+    "specialty": "Procurement Technology",
+    "desc": "Procurement and bidding software streamlining the RFP and vendor solicitation process for public agencies, helping park districts save time and ensure compliance."
+  },
+  "BMO Harris Bank": {
+    "specialty": "Banking & Public Finance",
+    "desc": "Full-service commercial bank offering public finance, treasury management, and specialized banking solutions for Illinois park districts and government agencies."
+  },
+  "Chicagoland Pool Management": {
+    "specialty": "Pool Management",
+    "desc": "Professional pool management, lifeguard staffing, and aquatic facility operations for park districts throughout Chicagoland."
+  },
+  "CivicRec": {
+    "specialty": "Recreation Management Software",
+    "desc": "CivicPlus recreation management software providing online registration, facility scheduling, membership tracking, and league management for park agencies."
+  },
+  "ComEd": {
+    "specialty": "Energy & Utilities",
+    "desc": "Commonwealth Edison providing energy solutions, efficiency programs, and sustainable energy consulting for park and recreation facilities."
+  },
+  "Concrete Polyfix": {
+    "specialty": "Concrete Repair & Leveling",
+    "desc": "Concrete leveling and repair specialist using polyurethane foam injection to lift and stabilize sunken slabs, sidewalks, and pathways in park facilities."
+  },
+  "Confluence": {
+    "specialty": "Landscape Architecture & Planning",
+    "desc": "Landscape architecture and planning firm creating innovative parks, trails, and public spaces with expertise in community engagement and sustainable design."
+  },
+  "Cunningham Recreation": {
+    "specialty": "Playground & Recreation Equipment",
+    "desc": "Full-service playground and recreation equipment supplier offering design, installation, and maintenance for park districts across the Midwest."
+  },
+  "Dewberry Architects Inc.": {
+    "specialty": "Architecture & Engineering",
+    "desc": "Architecture, engineering, and consulting firm providing comprehensive facility design and planning for recreation agencies."
+  },
+  "DLA Architects, Ltd.": {
+    "specialty": "Architecture",
+    "desc": "Full-service architectural firm specializing in park district facilities, recreation centers, and community buildings."
+  },
+  "DoubleSpot": {
+    "specialty": "Event & Venue Management Software",
+    "desc": "Event and venue management software helping park districts manage bookings, registrations, and communications for facilities and special events."
+  },
+  "Engineering Resource Associates, Inc.": {
+    "specialty": "Civil & Environmental Engineering",
+    "desc": "Civil and environmental engineering firm providing site development, water resources, and infrastructure design for park districts throughout the Chicago region."
+  },
+  "Epstein": {
+    "specialty": "Architecture & Engineering",
+    "desc": "Architecture and engineering firm with extensive experience designing recreation centers, aquatic facilities, and community buildings for park districts."
+  },
+  "Fehr Graham": {
+    "specialty": "Engineering & Environmental Consulting",
+    "desc": "Engineering and environmental consulting firm delivering civil engineering, landscape architecture, and environmental services for parks and municipalities."
+  },
+  "FGM Architects": {
+    "specialty": "Architecture & Design",
+    "desc": "Architecture and engineering firm specializing in parks, recreation centers, aquatic facilities, and community buildings."
+  },
+  "FieldTurf USA Inc,": {
+    "specialty": "Synthetic Turf & Athletic Fields",
+    "desc": "World-leading synthetic turf manufacturer providing high-performance artificial grass for athletic fields, multi-purpose sports areas, and recreation facilities."
+  },
+  "Fischer Bros": {
+    "specialty": "General Contracting",
+    "desc": "Construction and general contracting services specializing in park district facilities, site improvements, and community infrastructure projects throughout Illinois."
+  },
+  "Geese Chasers Chicago": {
+    "specialty": "Wildlife Management",
+    "desc": "Humane Canada goose control services using trained dogs to manage geese populations at parks, golf courses, and recreation areas in the Chicago area."
+  },
+  "GLI, Inc.": {
+    "specialty": "Landscaping & Grounds Maintenance",
+    "desc": "Commercial landscaping and grounds maintenance services providing turf care, seasonal planting, and landscape management for park districts."
+  },
+  "GO Technology Group": {
+    "specialty": "Managed IT Services",
+    "desc": "Managed IT services and technology solutions provider supporting park districts with network infrastructure, cybersecurity, and help desk support."
+  },
+  "Goodmark Nurseries": {
+    "specialty": "Nursery & Landscape Supply",
+    "desc": "Wholesale nursery supplying trees, shrubs, and perennials to park districts and landscape contractors for park beautification and reforestation projects."
+  },
+  "Great Southern Recreation": {
+    "specialty": "Playground Equipment & Installation",
+    "desc": "Full-service playground equipment supplier and installer offering a wide range of play structures, site furnishings, and outdoor fitness equipment."
+  },
+  "Green-Up": {
+    "specialty": "Commercial Landscaping",
+    "desc": "Commercial landscape maintenance company providing turf management, seasonal color, irrigation, and grounds care services for park facilities."
+  },
+  "Hard Rock Concrete Cutters Inc": {
+    "specialty": "Concrete Cutting & Demolition",
+    "desc": "Concrete cutting, coring, and demolition specialists providing precision concrete services for park district construction and renovation projects."
+  },
+  "Hitchcock Design Group": {
+    "specialty": "Landscape Architecture",
+    "desc": "Landscape architecture, planning, and urban design firm creating compelling parks, trails, and community spaces."
+  },
+  "HR Source": {
+    "specialty": "HR Consulting & Services",
+    "desc": "HR consulting and shared services organization providing compensation surveys, HR guidance, recruitment, and training for municipalities and park districts."
+  },
+  "Hustler Turf Equipment INC": {
+    "specialty": "Commercial Turf Equipment",
+    "desc": "Commercial-grade zero-turn mowers and turf equipment designed for the demanding maintenance needs of parks, golf courses, and athletic fields."
+  },
+  "Illinois Public Risk Fund": {
+    "specialty": "Insurance & Risk Management",
+    "desc": "Comprehensive risk management, insurance pooling, and safety training exclusively for Illinois park districts and recreation agencies."
+  },
+  "IZone Imaging": {
+    "specialty": "Printing & Signage",
+    "desc": "Commercial printing and signage company specializing in banners, vehicle wraps, event graphics, and branded materials for parks and recreation programs."
+  },
+  "JSD Professional Services, Inc.": {
+    "specialty": "Civil Engineering & Surveying",
+    "desc": "Civil engineering and surveying firm providing site development, stormwater management, and infrastructure design for park facilities."
+  },
+  "Just In Time Pool & Spa": {
+    "specialty": "Pool Maintenance & Service",
+    "desc": "Full-service pool maintenance, repairs, and chemical supply for municipal and commercial aquatic facilities throughout the Chicago suburbs."
+  },
+  "Kaizen Labs": {
+    "specialty": "Civic Technology",
+    "desc": "Civic technology company building digital tools that help government agencies improve resident engagement, online services, and community communication."
+  },
+  "KD Landscape Inc.": {
+    "specialty": "Landscape Contracting",
+    "desc": "Professional landscape contracting company providing installation, seasonal maintenance, and site improvements for park districts in the Chicago region."
+  },
+  "Kimley-Horn & Associates": {
+    "specialty": "Engineering & Planning",
+    "desc": "Planning, engineering, and environmental consulting firm serving park districts with landscape architecture and site design."
+  },
+  "Kompan, Inc": {
+    "specialty": "Playground & Fitness Equipment",
+    "desc": "Global leader in playground and outdoor fitness equipment, offering age-appropriate play structures, inclusive play, and nature-inspired designs for all communities."
+  },
+  "Lake Geneva Cruise Line": {
+    "specialty": "Aquatic Recreation & Tours",
+    "desc": "Scenic boat tours and aquatic recreation experiences on Geneva Lake—offering group cruises and team-building events for park districts and recreation agencies."
+  },
+  "Lamp Incorporated": {
+    "specialty": "Construction",
+    "desc": "General contractor specializing in construction and renovation of park district facilities, recreation centers, and aquatic centers."
+  },
+  "Landmark Aquatic": {
+    "specialty": "Aquatic Facility Design & Renovation",
+    "desc": "Aquatic facility design, renovation, and waterpark consulting firm specializing in pool renovation, splash pads, and aquatic attractions for park districts."
+  },
+  "Lauterbach & Amen, LLP": {
+    "specialty": "Accounting & Auditing",
+    "desc": "Public sector accounting and auditing firm providing financial advisory, budgeting, and audit services to park districts."
+  },
+  "McConnell & Associates Corp.": {
+    "specialty": "Sports Construction & Paving",
+    "desc": "Sports construction and commercial paving contractor specializing in asphalt, concrete, running tracks, and athletic courts for parks and recreation agencies since 1965."
+  },
+  "MGT Impact Solutions LLC": {
+    "specialty": "Management Consulting",
+    "desc": "Management consulting and advisory services helping park and recreation agencies with strategic planning, operational improvements, and organizational assessments."
+  },
+  "Midwest Mechanical": {
+    "specialty": "HVAC & Mechanical Contracting",
+    "desc": "Commercial HVAC, plumbing, and mechanical contracting services for park district recreation centers, aquatic facilities, and community buildings."
+  },
+  "MTJ Sports": {
+    "specialty": "Sports Facility Equipment",
+    "desc": "Manufacturer and supplier of aluminum bleachers, grandstands, press boxes, and sports facility components for park districts and athletic venues."
+  },
+  "Musco Sports Lighting": {
+    "specialty": "Sports Lighting",
+    "desc": "Industry-leading sports lighting systems for outdoor athletic fields, providing energy-efficient LED solutions with guaranteed light levels."
+  },
+  "MyRec.com Recreation Software": {
+    "specialty": "Recreation Management Software",
+    "desc": "Web-based recreation management software for program registration, facility booking, membership management, and community recreation administration."
+  },
+  "NuToys Leisure Products": {
+    "specialty": "Playground & Leisure Equipment",
+    "desc": "Playground equipment, site furnishings, and outdoor fitness products tailored for park districts throughout the Midwest—including installation and safety surfacing."
+  },
+  "Outdoorlink Inc.": {
+    "specialty": "Smart Lighting & Asset Management",
+    "desc": "Smart outdoor lighting controls and asset-management technology — remote monitoring, scheduling, and control of lighting and equipment for parks and public spaces."
+  },
+  "PCI": {
+    "specialty": "Public Relations & Communications",
+    "desc": "Public relations and communications agency helping park districts build community awareness, manage media relations, and promote programs and services."
+  },
+  "PDRMA": {
+    "specialty": "Risk Management & Insurance",
+    "desc": "Park District Risk Management Agency providing risk management, insurance, loss control, and training services to member agencies."
+  },
+  "PFM Asset Management": {
+    "specialty": "Investment & Financial Advisory",
+    "desc": "Investment management and financial advisory services for public agencies, providing portfolio management, bond proceeds investing, and financial planning."
+  },
+  "Planning Resources Inc.": {
+    "specialty": "Landscape Architecture & Planning",
+    "desc": "Landscape architecture and planning firm offering comprehensive park master plans, trail design, and open space planning for park districts throughout Illinois."
+  },
+  "Play & Park Structures": {
+    "specialty": "Playground Equipment & Site Amenities",
+    "desc": "Playground equipment and site amenity supplier offering commercial play structures, benches, tables, and safety surfacing for park districts and communities."
+  },
+  "Play Design Scapes": {
+    "specialty": "Custom Playground Design",
+    "desc": "Playground design and installation company creating custom, imaginative play environments with natural and traditional elements for parks and schools."
+  },
+  "Play Illinois": {
+    "specialty": "Playground Equipment",
+    "desc": "Playground design and installation specialists providing innovative play solutions for communities across Illinois."
+  },
+  "Productive Parks LLC": {
+    "specialty": "Park Management Software",
+    "desc": "Mobile work order and asset management software built specifically for park districts to track maintenance tasks, manage assets, and boost crew productivity."
+  },
+  "Rec Technologies": {
+    "specialty": "Recreation Management Software",
+    "desc": "Recreation management platform (Rec.us) providing online program registration, membership management, and facilities scheduling for parks and recreation agencies."
+  },
+  "Rieke Interiors": {
+    "specialty": "Commercial Interiors & Furnishings",
+    "desc": "Commercial interior design and furniture solutions for recreation centers, clubhouses, and park district facilities throughout the greater Chicago area."
+  },
+  "Rolling Green Country Club with Invited": {
+    "specialty": "Event Venue & Hospitality",
+    "desc": "Premier private country club offering event venues, golf, and hospitality facilities available to park districts and recreation agencies for special events and outings."
+  },
+  "Romtec, Inc.": {
+    "specialty": "Pre-Engineered Park Buildings",
+    "desc": "Pre-engineered restroom buildings, shelters, and concession structures designed and manufactured for parks, recreation areas, and public facilities."
+  },
+  "Russo Power Equipment": {
+    "specialty": "Outdoor Power Equipment",
+    "desc": "Commercial outdoor power equipment dealer and service center supplying mowers, tractors, and grounds maintenance equipment to park districts and municipalities."
+  },
+  "Rytech LLC": {
+    "specialty": "Technology & IT Services",
+    "desc": "Technology services and solutions provider offering IT support, infrastructure management, and digital transformation services for public agencies."
+  },
+  "Software Solutions, Inc.": {
+    "specialty": "Recreation Management Software",
+    "desc": "Recreation and parks management software providing registration, membership, facility scheduling, and reporting tools for agencies of all sizes."
+  },
+  "Sourcewell": {
+    "specialty": "Cooperative Purchasing",
+    "desc": "Government purchasing cooperative offering competitively solicited contracts that help park districts save time and money on equipment, vehicles, and services."
+  },
+  "Speer Financial": {
+    "specialty": "Municipal Finance Advisory",
+    "desc": "Independent municipal financial advisor providing bond issuance, debt management, and financial planning services to park districts and local governments."
+  },
+  "Stifel": {
+    "specialty": "Public Finance & Investment Banking",
+    "desc": "Investment banking and financial advisory firm providing bond underwriting, investment management, and public finance services to park districts and municipalities."
+  },
+  "Street Level Studio": {
+    "specialty": "Marketing & Branding",
+    "desc": "Full-service marketing and branding agency helping park districts and recreation agencies with campaigns, web design, and community engagement."
+  },
+  "Studio 222 Architects LLC": {
+    "specialty": "Recreation Facility Architecture",
+    "desc": "Full-service architectural firm with a strong portfolio of recreation centers, natatoriums, and park buildings—delivering thoughtful, community-focused design."
+  },
+  "Systems & Cabling Solutions, Inc": {
+    "specialty": "Technology Infrastructure",
+    "desc": "Commercial low-voltage contractor providing network cabling, security systems, AV installations, and technology infrastructure for park district facilities."
+  },
+  "Team REIL, Inc.": {
+    "specialty": "Site Amenities & Equipment",
+    "desc": "Outdoor recreation equipment and site amenities including bleachers, benches, bike racks, and park furnishings."
+  },
+  "The Forge Adventure Parks": {
+    "specialty": "Adventure Park Equipment",
+    "desc": "Designer and builder of indoor ninja warrior and adventure park courses—bringing high-energy, youth-focused attractions to park district recreation centers."
+  },
+  "The Larson Equipment And Furniture Company": {
+    "specialty": "Furniture & Site Amenities",
+    "desc": "Premium park and recreation furnishings including benches, tables, shelters, and site amenities for outdoor spaces."
+  },
+  "The Mulch Center": {
+    "specialty": "Mulch & Landscape Materials",
+    "desc": "Premium mulch, wood chips, and landscape materials supplier delivering bulk and bagged products for park playgrounds, gardens, and landscaping projects."
+  },
+  "The Sign Stop, Inc.": {
+    "specialty": "Custom Signage & Wayfinding",
+    "desc": "Custom sign fabrication company producing park entry signs, wayfinding systems, facility identification, and branded graphics for park districts."
+  },
+  "Tyler Technologies, Inc.": {
+    "specialty": "Technology & Software",
+    "desc": "Enterprise software solutions for government agencies including recreation management, permitting, and citizen engagement platforms."
+  },
+  "Upland Design Ltd": {
+    "specialty": "Landscape Architecture & Planning",
+    "desc": "Landscape architecture and planning firm creating innovative park designs, master plans, and recreational spaces throughout Illinois."
+  },
+  "Vermont Systems": {
+    "specialty": "Recreation Management Software",
+    "desc": "Enterprise recreation management software (RecTrac) providing comprehensive registration, point-of-sale, membership, and facility management for park agencies."
+  },
+  "Vortex Aquatic Structures International": {
+    "specialty": "Aquatic Play Structures",
+    "desc": "Global manufacturer of innovative spray pads, water playgrounds, and aquatic play structures that transform parks into destination community water experiences."
+  },
+  "Wight & Company": {
+    "specialty": "Architecture & Construction Management",
+    "desc": "Architecture, construction management, and interior design firm providing comprehensive building services for park district recreation centers and facilities."
+  },
+  "Wintrust Financial Corporation": {
+    "specialty": "Financial Services",
+    "desc": "Community banking and financial services providing specialized banking solutions for park districts and municipal agencies."
+  }
+}

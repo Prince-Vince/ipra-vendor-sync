@@ -1,0 +1,36 @@
+name: Sync vendor directory
+
+# Rebuilds vendors.json from the public GrowthZone partner directory once a day,
+# and on demand. No secrets required — the directory is public.
+on:
+  schedule:
+    - cron: '0 11 * * *'   # ~6:00 AM Central daily (11:00 UTC)
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Build vendors.json from GrowthZone
+        run: node scripts/sync.mjs
+
+      - name: Commit if the directory changed
+        run: |
+          if [[ -n "$(git status --porcelain vendors.json)" ]]; then
+            git config user.name "vendor-sync-bot"
+            git config user.email "actions@users.noreply.github.com"
+            git add vendors.json
+            git commit -m "chore: sync vendors ($(date -u +%Y-%m-%d))"
+            git push
+          else
+            echo "No vendor changes today."
+          fi

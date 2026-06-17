@@ -1,0 +1,13 @@
+{
+  "name": "ipra-vendor-sync",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Builds vendors.json for the IPRA Vendor Directory from the public GrowthZone partner directory. GrowthZone is the source of truth.",
+  "scripts": {
+    "sync": "node scripts/sync.mjs",
+    "overlay": "node scripts/extract-overlay.mjs",
+    "levels": "python scripts/levels-from-report.py"
+  },
+  "engines": { "node": ">=18" }
+}
