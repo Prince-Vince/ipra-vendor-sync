@@ -1,15 +1,15 @@
 {
   "source": "members.ilipra.org/ipra-partner-directory (Commercial Member Directory — Website)",
-  "generatedAt": "2026-06-29T12:33:06.033Z",
+  "generatedAt": "2026-06-30T11:53:47.438Z",
   "brandfetchClientId": "1idXeZr62MJ-gOMkey8",
-  "count": 98,
+  "count": 97,
   "withLogos": 26,
-  "withWebsite": 87,
+  "withWebsite": 86,
   "withContactForm": 94,
   "withoutCategory": 0,
   "byTier": {
     "premium": 8,
-    "basic": 84,
+    "basic": 83,
     "elite": 6
   },
   "vendors": [
@@ -1050,20 +1050,6 @@
       "tier": "basic",
       "specialty": "Commercial Interiors & Furnishings",
       "desc": "Commercial interior design and furniture solutions for recreation centers, clubhouses, and park district facilities throughout the greater Chicago area.",
-      "firstSeen": "2024-01-01"
-    },
-    {
-      "n": "Rolling Green Country Club with Invited",
-      "p": "(847) 253-0400",
-      "website": "http://www.invitedclubs.com/clubs/rolling-green-country-club?utm_source=bing&utm_medium=organic&utm_campaign=bing-profile",
-      "contactUrl": "",
-      "logoUrl": "",
-      "cats": [
-        "Entertainment & Event Services"
-      ],
-      "tier": "basic",
-      "specialty": "Event Venue & Hospitality",
-      "desc": "Premier private country club offering event venues, golf, and hospitality facilities available to park districts and recreation agencies for special events and outings.",
       "firstSeen": "2024-01-01"
     },
     {
