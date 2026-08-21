@@ -1,12 +1,12 @@
 {
   "source": "members.ilipra.org/ipra-partner-directory (Commercial Member Directory — Website)",
-  "generatedAt": "2026-08-20T11:08:30.118Z",
+  "generatedAt": "2026-08-21T11:08:32.264Z",
   "brandfetchClientId": "1idXeZr62MJ-gOMkey8",
   "count": 98,
   "withLogos": 27,
   "withWebsite": 87,
   "withContactForm": 95,
-  "withoutCategory": 1,
+  "withoutCategory": 0,
   "byTier": {
     "premium": 8,
     "basic": 84,
@@ -244,7 +244,9 @@
       "website": "https://caprasport.com/",
       "contactUrl": "https://members.ilipra.org/ipra-partner-directory/Contact/PK87YvOL?listingTypeId=EPKWaQPw",
       "logoUrl": "https://res.cloudinary.com/micronetonline/image/upload/f_auto/c_crop,h_883,w_1386,x_220,y_119/q_auto/f_auto/c_limit,h_100,w_250/q_auto/v1786998908/tenants/debde389-7da6-4f0f-95a9-a74f70f0dfa9/4e6f2152156446c2af9d2b12e9c16090/Capra-Sports-Typographic-Neon-Green-White.jpg",
-      "cats": [],
+      "cats": [
+        "Supplies"
+      ],
       "tier": "basic",
       "specialty": "",
       "desc": "",
