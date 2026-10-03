@@ -1,15 +1,15 @@
 {
   "source": "members.ilipra.org/ipra-partner-directory (Commercial Member Directory — Website)",
-  "generatedAt": "2026-10-02T11:12:37.293Z",
+  "generatedAt": "2026-10-03T11:24:31.627Z",
   "brandfetchClientId": "1idXeZr62MJ-gOMkey8",
-  "count": 98,
+  "count": 99,
   "withLogos": 27,
-  "withWebsite": 87,
-  "withContactForm": 95,
-  "withoutCategory": 0,
+  "withWebsite": 88,
+  "withContactForm": 96,
+  "withoutCategory": 1,
   "byTier": {
     "premium": 8,
-    "basic": 84,
+    "basic": 85,
     "elite": 6
   },
   "vendors": [
@@ -279,6 +279,18 @@
       "specialty": "",
       "desc": "",
       "firstSeen": "2026-06-17"
+    },
+    {
+      "n": "Citron Hygiene",
+      "p": "(800) 643-6922",
+      "website": "http://www.citronhygiene.com/",
+      "contactUrl": "https://members.ilipra.org/ipra-partner-directory/Contact/plYegaJP?listingTypeId=EPKWaQPw",
+      "logoUrl": "",
+      "cats": [],
+      "tier": "basic",
+      "specialty": "",
+      "desc": "",
+      "firstSeen": "2026-10-03"
     },
     {
       "n": "CivicRec",
