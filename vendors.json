@@ -1,15 +1,15 @@
 {
   "source": "members.ilipra.org/ipra-partner-directory (Commercial Member Directory — Website)",
-  "generatedAt": "2026-10-09T11:12:43.058Z",
+  "generatedAt": "2026-10-10T11:11:48.045Z",
   "brandfetchClientId": "1idXeZr62MJ-gOMkey8",
-  "count": 99,
-  "withLogos": 27,
+  "count": 100,
+  "withLogos": 28,
   "withWebsite": 88,
   "withContactForm": 96,
   "withoutCategory": 1,
   "byTier": {
     "premium": 8,
-    "basic": 85,
+    "basic": 86,
     "elite": 6
   },
   "vendors": [
@@ -487,6 +487,20 @@
       "specialty": "Wildlife Management",
       "desc": "Humane Canada goose control services using trained dogs to manage geese populations at parks, golf courses, and recreation areas in the Chicago area.",
       "firstSeen": "2024-01-01"
+    },
+    {
+      "n": "Gewalt Hamilton Associate",
+      "p": "(847) 478-9700",
+      "website": "",
+      "contactUrl": "",
+      "logoUrl": "https://res.cloudinary.com/micronetonline/image/upload/c_crop,h_844,w_3000,x_0,y_-1/f_auto/q_auto/f_auto/c_limit,h_100,w_250/q_auto/v1715720399/tenants/debde389-7da6-4f0f-95a9-a74f70f0dfa9/c990c1375860428593f5cb22a753c835/Gewalt-Hamilton.png",
+      "cats": [
+        "Planning & Design"
+      ],
+      "tier": "basic",
+      "specialty": "",
+      "desc": "",
+      "firstSeen": "2026-10-10"
     },
     {
       "n": "GLI, Inc.",
