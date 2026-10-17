@@ -1,12 +1,12 @@
 {
   "source": "members.ilipra.org/ipra-partner-directory (Commercial Member Directory — Website)",
-  "generatedAt": "2026-10-16T11:12:14.616Z",
+  "generatedAt": "2026-10-17T11:09:29.732Z",
   "brandfetchClientId": "1idXeZr62MJ-gOMkey8",
   "count": 100,
   "withLogos": 28,
   "withWebsite": 88,
   "withContactForm": 96,
-  "withoutCategory": 1,
+  "withoutCategory": 0,
   "byTier": {
     "premium": 8,
     "basic": 86,
@@ -286,7 +286,9 @@
       "website": "http://www.citronhygiene.com/",
       "contactUrl": "https://members.ilipra.org/ipra-partner-directory/Contact/plYegaJP?listingTypeId=EPKWaQPw",
       "logoUrl": "",
-      "cats": [],
+      "cats": [
+        "Supplies"
+      ],
       "tier": "basic",
       "specialty": "",
       "desc": "",
